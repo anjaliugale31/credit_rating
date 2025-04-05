@@ -1,6 +1,6 @@
 # RMBS Credit Rating App
 
-This is a full-stack web application for calculating and managing residential mortgage-backed securities (RMBS) credit ratings. It consists of a React frontend and Django backend with a MySQL database.
+This is a full-stack web application for calculating and managing residential mortgage-backed securities (RMBS) credit ratings. It consists of a React frontend and Django backend with a database.
 
 ---
 
@@ -61,11 +61,8 @@ Run test cases for:
 - Edge cases: e.g. negative values, bad credit scores
 - Correct credit rating calculation
 
-```bash
-python manage.py test
-```
+$python manage.py test
 
----
 
 ## 🔐 Design Decisions
 
